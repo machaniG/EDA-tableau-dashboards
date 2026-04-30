@@ -77,4 +77,4 @@ I used this insight to highlight the importance of promotional timing and invent
 
 ## Where to Find the Dashboards
 
-There dashboards can be accessed [here]([)](https://public.tableau.com/app/profile/fridah.machani/vizzes)
+There dashboards can be accessed [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
