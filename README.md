@@ -1,5 +1,5 @@
 # deep-EDA-and-dashboards
-This analysis utilizes a comprehensive Tableau suite to evaluate the health of a UK-based clothing retailer. By processing over 214,000 units sold and £7.08M in revenue, the project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends.
+This analysis utilizes a comprehensive Tableau suite to evaluate the health of a UK-based clothing retailer. By processing over 214,000 units sold and £7.08M in revenue, the project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends. Explore the dashboards  [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
 
 ## Business Problem 
 
@@ -77,4 +77,4 @@ I used this insight to highlight the importance of promotional timing and invent
 
 ## Where to Find the Dashboards
 
-There dashboards can be accessed [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
+The dashboards can be accessed [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
