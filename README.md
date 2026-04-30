@@ -1,4 +1,4 @@
-# deep-EDA-and-dashboards
+# Retail Performance & Consumer Behavior (2018–2021) 
 This analysis utilizes a comprehensive Tableau suite to evaluate the health of a UK-based clothing retailer. By processing over 214,000 units sold and £7.08M in revenue, the project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends. Explore the dashboards  [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
 
 ## Business Problem 
@@ -66,6 +66,10 @@ I used this insight to highlight the importance of promotional timing and invent
 
 <img width="1839" height="751" alt="product performance" src="https://github.com/user-attachments/assets/9d09ce1b-fc45-4c8d-81df-865cab0b2791" />
 
+
+## Product Lifecycle Insights
+
+I observed that while summer categories (Shorts/Tees) maintained high volume, winter categories like Jackets showed a sharp peak followed by a steep decline in November. This highlights a lower purchase frequency for outerwear; unlike high-rotation summer items, consumers typically invest in a single 'hero' jacket for the season. This insight helps the retailer understand that Jacket marketing must be front-loaded in early Autumn to capture that one-time seasonal spend.
 
 ## Strategic Recommendations
 
