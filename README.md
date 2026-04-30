@@ -79,6 +79,10 @@ I observed that while summer categories (Shorts/Tees) maintained high volume, wi
 
 3. Regional Expansion: Investigate the success factors in Buckinghamshire to replicate the model in the Greater London market, which has high volume but lower relative margins.
 
+## Where to Find the Report
+
+Find the analysis report [here](https://github.com/machaniG/deep-EDA-and-dashboards/blob/main/sales-operation-report.md)
+
 ## Where to Find the Dashboards
 
 The dashboards can be accessed [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
