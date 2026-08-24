@@ -26,7 +26,7 @@ I recommended the client to:
 
 My analysis uncovered that: 
 
-- Despite being increasingly sensitivity to seasonal shifts, the
+- Despite being increasingly sensitivite to seasonal shifts, the
 business is growing (a 5.7% YoY profit increase in 2021), with an all-time average profit
 margin of 52.1%.
 - Profit varied by £0.72M across the top five profitable territories, revealing where to allocate marketing spend.
