@@ -12,7 +12,7 @@ I conducted multi-dimensional exploratory data analysis across four analytical l
 The client got three valuable insights with immediate operational value that enabled the client to optimize inventory rotation and front-load marketing spend for high-margin "hero" products. 
 1. Demand dropped by up to 78% in certain product categories (Bras & Tops) between peak and trough months, directly informing how much stock to hold and when.
 2. Profit varied by £0.72M across the top five regions with Buckinghamshire leading in profits (generating £0.86M) and Lothian emerging as the most efficiency market (at a 56.3% margin) that may offer better ROI, revealing where marketing spend should be allocated.
-3. Frankie Sweatshirts is the cleint's anchor product that maintained consistent growth and stable margins from 2018 through 2021 despite broader market fluctuations, providing a safe inventory investment that offer a reliable floor for revenue to protect the business against the volatility of trend-based items.
+3. Frankie Sweatshirts is the client's anchor product that maintained consistent growth and stable margins from 2018 through 2021 despite broader market fluctuations, providing a safe inventory investment that offer a reliable floor for revenue to protect the business against the volatility of trend-based items.
 
 These findings were delivered as three interactive Tableau dashboards their team could explore independently, filter by year, and use in planning meetings without needing a data analyst in the room.
 
