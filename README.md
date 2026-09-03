@@ -41,7 +41,7 @@ margin of 52.1%.
 
 Best vs. Worst Month analysis identified:
 - A **logical anomaly:** a 39-44% drop in Jacket and Hoodie sales in November despite peak cold weather, attributable to 'one-time' consumer purchasing behavior for the season. 
-- A 78% drop in specific product lines (Bras & Tops) during the Q4 transition, likely due to the combination of a smaller target demographic, allowing for better seasonal inventory planning and clearance strategies.
+- A 78% drop in specific product lines (Bras & Tops) during the Q4 transition, likely due to the combination of a smaller target demographic and off-season period especially for tops, allowing for better seasonal inventory planning and clearance strategies.
 
 I used this insight to highlight the importance of promotional timing and inventory management, suggesting that the business may be losing early-winter momentum to Black Friday 'wait-and-see' consumer behavior.
 
