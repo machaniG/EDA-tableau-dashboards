@@ -56,7 +56,7 @@ I used this insight to highlight the importance of promotional timing and invent
 - **Growth Volatility:** Month-over-Month (MoM) Growth Rate revealed high volatility in 2021, indicating that while the business is growing (5.7% YoY profit increase), it is increasingly sensitive to seasonal shifts and supply chain timing.
 
 
-## Product Performance: Profitability vs. Volume
+## Profitability vs. Volume
 
 - **The Profitability Leader:** While Hoodies & Sweatshirts drive the highest volume (£1.96M), the Jackets category maintains the strongest individual product margins.
 
