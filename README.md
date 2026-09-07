@@ -1,11 +1,16 @@
 # Product Performance & Consumer Behavior (2018–2021) 
-This analysis utilizes a comprehensive Tableau suite to evaluate the health of product lines for a UK-based clothing retailer over the course of 4 years. By processing over 214,000 units sold and £7.08M in revenue, the project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends. Explore the dashboards  [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
+
+## Executive Summary
+
+This analysis utilizes a comprehensive Tableau suite to evaluate the health of product lines for a UK-based clothing retailer over the course of 4 years. The project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends and recommends where the business should focus its marketing and inventory dollars. Explore the dashboards  [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
+
+Hoodies & Sweatshirts drive the highest sales volume (£1.96M) but weaker margins than the Jackets category. Buckinghamshire generates the most revenue and profits but Lothian is the most efficient market with 56.3% margins, higher than the business average of 52.1%. Frankie Sweatshirt has grown consistently for four consecutive years, suggesting sustained demand despite external market volatility. May appears to be the peak month while November is the low month for sales across all categories including winter gear which may be attributable to one-off purchasing behavior for cold weather clothes and off-season period for other categories. Therefore, inventory and promotional resources should be prioritized toward Lothian and Buckinghamshire, where every pound spent generates a higher return than in higher-volume, as well as in lead product categories; Jacket and Hoodie. 
 
 ## Business Problem 
 
 An apparel retail client had four years of sales data but no structured way to answer basic business questions. They needed to move from manual tracking to a dynamic system to identify high-margin products, track regional performance, and spot seasonal sales drops. 
 
-## Main question
+## Main Business Question
 
 Which products, categories, regions and periods are driving sales and profitability, and where should the business focus its attention?
 
