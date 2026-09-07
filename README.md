@@ -1,4 +1,4 @@
-# Product Performance & Consumer Behavior (2018–2021) 
+# Apparel Performance & Profitability Analysis (2018–2021) 
 
 ## Executive Summary
 
