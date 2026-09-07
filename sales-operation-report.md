@@ -1,4 +1,4 @@
-# Executive Summary: Retail Performance & Consumer Behavior (2018–2021)
+# Apparel Performance & Profitability (2018–2021)
 
 ## Project Overview
 
