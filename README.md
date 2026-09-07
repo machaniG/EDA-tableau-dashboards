@@ -5,6 +5,7 @@
 This analysis utilizes a comprehensive Tableau suite to evaluate the health of product lines for a UK-based clothing retailer over the course of 4 years. The project identifies key drivers of profitability, regional dominance, and counter-intuitive seasonal trends and recommends where the business should focus its marketing and inventory dollars. Explore the dashboards  [here](https://public.tableau.com/app/profile/fridah.machani/vizzes)
 
 Hoodies & Sweatshirts drive the highest sales volume (£1.96M) but weaker margins than the Jackets category. Buckinghamshire generates the most revenue and profits but Lothian is the most efficient market with 56.3% margins, higher than the business average of 52.1%. Frankie Sweatshirt has grown consistently for four consecutive years, suggesting sustained demand despite external market volatility. May appears to be the peak month while November is the low month for sales across all categories including winter gear which may be attributable to one-off purchasing behavior for cold weather clothes and off-season period for other categories. Therefore, inventory and promotional resources should be prioritized toward Lothian and Buckinghamshire, where every pound spent generates a higher return than in higher-volume, as well as in lead product categories; Jacket and Hoodie. 
+---
 
 ## Business Problem 
 
@@ -13,6 +14,8 @@ An apparel retail client had four years of sales data but no structured way to a
 ## Main Business Question
 
 Which products, categories, regions and periods are driving sales and profitability, and where should the business focus its attention?
+
+---
 
 ## Solution
 
@@ -30,6 +33,8 @@ I recommended the client to:
 2. **Front-Load Winter Marketing**: Focus Jacket and Hoodie ad spend in September/October to capture the "one-time" seasonal buyer before the November lull.
 3. **Inventory Consolidation:** Consider reducing stock in bottom-performing Bras & Tops and reallocating budget to high-margin "Active" lines.
 4. **Regional Expansion:** Investigate the success factors in Buckinghamshire to replicate the model in the Greater London market, which has high volume but lower relative margins.
+
+----
 
 ## Sales and Profitability Insights
 
@@ -80,7 +85,9 @@ I used this insight to highlight the importance of promotional timing and invent
 
 I observed that while summer categories (Shorts/Tees) maintained high volume, winter categories like Jackets showed a sharp peak followed by a steep decline in November. This highlights a lower purchase frequency for outerwear; unlike high-rotation summer items, consumers typically invest in a single 'hero' jacket for the season. This insight helps the retailer understand that Jacket marketing must be front-loaded in early Autumn to capture that one-time seasonal spend.
 
-## Strategic Recommendations
+---
+
+## Recommendations
 
 1. Front-Load Winter Marketing: Focus Jacket and Hoodie ad spend in September/October to capture the "one-time" seasonal buyer before the November lull.
 
