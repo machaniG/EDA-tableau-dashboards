@@ -5,6 +5,10 @@ This analysis utilizes a comprehensive Tableau suite to evaluate the health of p
 
 An apparel retail client had four years of sales data but no structured way to answer basic business questions. They needed to move from manual tracking to a dynamic system to identify high-margin products, track regional performance, and spot seasonal sales drops. 
 
+## Main question
+
+Which products, categories, regions and periods are driving sales and profitability, and where should the business focus its attention?
+
 ## Solution
 
 I conducted multi-dimensional exploratory data analysis across four analytical lenses simultaneously;  product category, individual SKU, geography, and time.
